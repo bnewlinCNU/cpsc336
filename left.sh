@@ -1,6 +1,5 @@
 #!/bin/bash
 
-sudo -i
 echo student
 echo LEFT > /etc/hostname
 echo auto enp0s8 >> /etc/network/interfaces
